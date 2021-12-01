@@ -26,7 +26,7 @@ const Header = () => {
         </p>
         <p className={headerStyles.description}>
           {data.site.siteMetadata.description}
-          I am a Robotics Engineer</p>
+          </p>
       </div>
       <nav className={headerStyles.navContainer}>
         <ul className={headerStyles.navList}>
