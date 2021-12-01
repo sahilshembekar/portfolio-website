@@ -5,7 +5,7 @@ featured: "../images/first-post.jpg"
 ---
 <h2>Pre-Application</h2>
 
-This is my first (technically, second) blog 🎉 which has been long overdue, but better late than never. In this blogpost, I will be detailing all the steps that I took in order to get an admit at Waseda University [1] for a Master’s degree in Intelligent Machines.
+This is my second blog 🎉 and one which has been long overdue, but better late than never. In this blogpost, I will be detailing all the steps that I took in order to get an admit at Waseda University [1] for a Master’s degree in Intelligent Machines.
 
 <p>
 The process of selecting and applying to a university for graduate studies can be a daunting task 🙏. Most people go to the US, Australia, Europe for Masters. I also did a lot of researching about many universities and colleges. I finally made a list of universities to apply to. Waseda University in Tokyo 🗼 🗾 was the one which I was interested in. The Laboratory that I wanted to join had made the first Humanoid robot 🤖 (The WABOT project)❗❗. Although it was an unusual choice in the eyes of many, I was keenly interested in securing admission here.
