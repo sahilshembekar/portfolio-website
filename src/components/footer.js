@@ -7,7 +7,7 @@ const Footer = () => {
     <footer className={footerStyles.siteFooter}>
       <div className={footerStyles.container}>
         <p>
-          Site developed by Sahil Shembekar &copy;{" "}
+          Made using GatsbyJS by Sahil Shembekar &copy;{" "}
           {new Date().getFullYear().toString()}{" "}
         </p>
       </div>

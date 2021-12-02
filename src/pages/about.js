@@ -83,6 +83,9 @@ const About = () => {
         </ul>
         <h2>Publications</h2>
         <ul>
+          <li><mark>S. Shembekar</mark>, M. Kamezaki, P. Zhang, Z. He, R. Tsunoda, Y. Iwamoto,Y. Ido, H. Sakamoto, and S. Sugano. 
+            “Development of a Permanent Magnet Elastomer (PME) Infused Soft Robot Skin for Tactile Sensing” 
+            <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021), Prague, Czech Republic, 2021 </i> </li>
           <li><mark>S. Shembekar</mark>, M. Kamezaki, P. Zhang, Z. He, R. Tsunoda, K. Otsuki, H. Sakamoto, and S. Sugano. 
             “Preliminary Development of a Powerful and Backdrivable Robot Gripper Using Magnetorheological Fluid” 
             <i> Proc. Int. Symp. Automation and Robotics in Construction, Kitakyushu, Japan, 2020 </i> </li>
