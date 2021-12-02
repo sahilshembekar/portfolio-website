@@ -92,16 +92,17 @@ const About = () => {
         </ul>
         <h2>Selected Projects</h2>
         <ul>
-            <li> <a href="https://drive.google.com/file/d/1rf4gGWU-F6rjGmlnIRlZg_WXKqYP_HFV/view?usp=sharing" target="_blank"><h4>Autonomous Robot using 
-              Intel Real Sense T265 </h4> </a> <small><i>(04/2019 - 09/2019)</i> </small>
+            <li>  <h4>Autonomous Robot using 
+              Intel Real Sense T265 <small><i>(04/2019 - 09/2019)</i></small></h4>
+              {/* href="https://drive.google.com/file/d/1rf4gGWU-F6rjGmlnIRlZg_WXKqYP_HFV/view?usp=sharing" target="_blank"><h4>Autonomous Robot using 
+              Intel Real Sense T265 </h4> </a> <small><i>(04/2019 - 09/2019)</i> </small> */}
             <ul>
                     <li>Developed a python program on Raspbian for wheel control and extracted coordinates using TCP 
                       server to visualize the path for the robot</li>
                     <li>Performed path analysis and optimization using experimentation to improve the wheel control by 30%</li>
                 </ul></li>
-            <li> <a href="https://drive.google.com/drive/folders/1igyk41nPlFBF3D3pj2lUIjy-SFaf7L2A?usp=sharing" target="_blank"><h4>Development of a powerful and backdrivable Robot 
-              Gripper using Magnetorheological Fluid</h4></a> <small><i>(04/2019 - 05/2020) 
-              </i></small>
+              <li><h4>Development of a powerful and backdrivable Robot Gripper using Magnetorheological Fluid <small><i>(04/2019 - 05/2020)</i></small></h4>
+              {/*<a href="https://drive.google.com/drive/folders/1igyk41nPlFBF3D3pj2lUIjy-SFaf7L2A?usp=sharing" target="_blank"><h7>Link</h7></a> */}
                 <ul>
                     <li>Goal was to develop a small and powerful gripper which could grasp heavy objects and also light objects without damaging
                       the object body. </li>

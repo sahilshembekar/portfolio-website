@@ -36,7 +36,7 @@ module.exports = {
   ],
   siteMetadata: {
     title: "Sahil Shembekar",
-    description: "I am a Robotics Engineer",
+    description: "Welcome to my page",
     author: "Sahil",
   },
   
